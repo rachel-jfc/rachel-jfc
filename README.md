@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello World 👋
+- :robot: I'm a Data Scientist with background in Statistics and Retail
+- :woman_technologist: I'm a student studying Master of Management Analytic at Smith School of Business
+- :snowboarder: :surfing_woman: I love outdoor activities
+- 📫 Connect with me: https://www.linkedin.com/in/rachelchenjf
 
 <!--
 **rachel-jfc/rachel-jfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- :I'm doing Master of Management Analytic at Smith School of Business
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
