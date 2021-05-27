@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 - :robot: I'm a Data Scientist with background in Statistics and Retail
 - :woman_technologist: I'm a student studying Master of Management Analytic at Smith School of Business
 - :snowboarder: :surfing_woman: I love outdoor activities
