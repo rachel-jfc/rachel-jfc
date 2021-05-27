@@ -8,5 +8,13 @@
 * Created a tool that monitor public sentiment responding to COVID-19 vaccines on Twitter
 * Scraped over 180k tweets from Twitter API using Python and Twint
 * Scraped COVID-19 Vaccines updates from news using Python and Selenium
-* Studied how the public's sentiments responding to COVID-19 updates reflected on Twitter.
+* Studied how the public's sentiments responding to COVID-19 updates reflected on Twitter
 * Applied NLP techniques: Sentiment Analysis, Topic Modeling and Classification Modeling
+
+# [Project 2: Credit Card Transactions Fraud Detection](https://github.com/rachel-jfc/Credit_Card_Transactions_Fraud-Detection)
+* This is a Hackation project that finished in 24 hours
+* Created a tool that dected credit card transactions fraud
+* Dealt with imbalance
+* Optimized Lasso, Ridge adn Decision Tree Classifier using GridsearchCV to reach the best model
+
+
