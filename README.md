@@ -4,6 +4,7 @@
 - :snowboarder: :surfing_woman: I love outdoor activities
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/rachelchenjf)
 
+# [Project 1: Public Sentiment Monitor on COVID-19 Vaccines Tweets](https://github.com/rachel-jfc/Public-Sentiment-Monitor-on-COVID-19-Vaccines-Tweets)
 <!--
 **rachel-jfc/rachel-jfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
