@@ -2,11 +2,7 @@
 - :robot: I'm a Data Scientist with background in Statistics and Retail
 - :woman_technologist: I'm a student studying Master of Management Analytic at Smith School of Business
 - :snowboarder: :surfing_woman: I love outdoor activities
-- 📫 Connect with me: <img src="{BadgeURLHere}" />(https://www.linkedin.com/in/rachelchenjf)
-- ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
-
- </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/rachelchenjf">
+- 📫 Connect with me: <a href="https://www.linkedin.com/in/rachelchenjf">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 # [Project 1: Public Sentiment Monitor on COVID-19 Vaccines Tweets](https://github.com/rachel-jfc/Public-Sentiment-Monitor-on-COVID-19-Vaccines-Tweets)
